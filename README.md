@@ -18,4 +18,6 @@ ence on Intelligent Robots and Systems (IROS), pages 7350–7355. IEEE, 2018
 
 按照上述代码，在mvp数据集，2048点的complete点云上的结果
 
-![chair](https://github.com/alfredtorres/EdgeDetection/blob/main/chair.png)
+<p align="center"> 
+<img src=./chair.png">
+</p>
